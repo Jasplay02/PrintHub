@@ -1,0 +1,80 @@
+header {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+}
+body {
+  font-family: "Roboto", sans-serif;
+  height: 100vh;
+}
+
+#search {
+  background-color: #f7971e;
+  width: 10%;
+  padding: 1% 0 1% 0;
+  float: left;
+  color: #fff;
+}
+
+#call {
+  background-color: #f7971e;
+  width: 30%;
+  padding: 1% 0 1% 0;
+  float: left;
+  color: white;
+  text-indent: 25px;
+}
+
+.customerSendFileGetQuote {
+  background-color: #f7971e;
+  width: 20%;
+  padding: 1% 0 1% 0;
+  float: left;
+  color: white;
+}
+.customerSendFileGetQuote a {
+  text-decoration: none;
+  color: white;
+}
+.wrapper {
+  background: black;
+}
+.wrapper .logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#navBar a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+#navBar ul {
+  text-align: center;
+}
+#navBar li {
+  display: inline-block;
+  padding: 1% 5% 0 5%;
+}
+
+#leftSide {
+  float: left;
+  width: 30%;
+  height: 100vh;
+}
+
+#leftSideNavBar ul {
+  list-style: none;
+  padding-top: 5%;
+}
+#leftSideNavBar li {
+  padding-top: 5%;
+}
+
+#leftSideNavBar a {
+  text-decoration: none;
+  font-size: 150%;
+  color: black;
+}

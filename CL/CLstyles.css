@@ -1,0 +1,97 @@
+header {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+}
+body {
+  font-family: "Roboto", sans-serif;
+  height: 100vh;
+}
+
+#search {
+  background-color: #f7971e;
+  width: 10%;
+  padding: 1% 0 1% 0;
+  float: left;
+  color: #fff;
+}
+
+#call {
+  background-color: #f7971e;
+  width: 30%;
+  padding: 1% 0 1% 0;
+  float: left;
+  color: white;
+  text-indent: 25px;
+}
+
+.customerSendFileGetQuote {
+  background-color: #f7971e;
+  width: 20%;
+  padding: 1% 0 1% 0;
+  float: left;
+  color: white;
+}
+.customerSendFileGetQuote a {
+  text-decoration: none;
+  color: white;
+}
+.wrapper {
+  background: black;
+}
+.wrapper .logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#navBar a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+#navBar ul {
+  text-align: center;
+}
+#navBar li {
+  display: inline-block;
+  padding: 1% 5% 0 5%;
+}
+fieldset {
+  width: 50%;
+  position: relative;
+  margin-left: 25%;
+}
+#auth {
+  margin-left: 5%;
+  font-family: Tahoma, sans-serif, Arial;
+}
+#AR {
+  font-family: Tahoma, sans-serif, Arial;
+}
+#inp {
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 75%;
+}
+#FYP {
+  font-family: Tahoma, sans-serif, Arial;
+  font-size: 65%;
+}
+#SI {
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-family: Tahoma, sans-serif, Arial;
+  padding: 1%;
+}
+/*s
+#foot {
+  width: 75%;
+  background-color: black;
+  color: white;
+  margin-left: -20%;
+  width: 130%;
+}
+*/

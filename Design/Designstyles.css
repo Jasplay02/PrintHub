@@ -1,0 +1,269 @@
+/*for header to replace the codes in other files*/
+
+header {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+}
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+#search {
+  background-color: #f7971e;
+  width: 10%;
+  padding: 1% 0 1% 0;
+  float: left;
+  color: #fff;
+}
+
+#call {
+  background-color: #f7971e;
+  width: 30%;
+  padding: 1% 0 1% 0;
+  float: left;
+  color: white;
+  text-indent: 25px;
+}
+
+.customerSendFileGetQuote {
+  background-color: #f7971e;
+  width: 20%;
+  padding: 1% 0 1% 0;
+  float: left;
+  color: white;
+}
+.customerSendFileGetQuote a {
+  text-decoration: none;
+  color: white;
+}
+.wrapper {
+  background: black;
+}
+.wrapper .logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#navBar a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+#navBar ul {
+  text-align: center;
+}
+#navBar li {
+  display: inline-block;
+  padding: 1% 5% 0 5%;
+}
+
+#leftSide {
+  float: left;
+  width: 30%;
+  height: 100vh;
+}
+
+#leftSideNavBar ul {
+  list-style: none;
+  padding-top: 5%;
+}
+#leftSideNavBar li {
+  padding-top: 5%;
+}
+
+#leftSideNavBar a {
+  text-decoration: none;
+  font-size: 150%;
+  color: black;
+}
+#designPage {
+  font-weight: bold;
+}
+#rightSide {
+  height: 120vh;
+}
+#rightSideTop {
+  float: left;
+  width: 70%;
+  margin-bottom: 1%;
+}
+#rightSideLeftBottom {
+  float: left;
+
+  width: 40%;
+}
+#desTitle {
+  font-size: 150%;
+}
+#rightSideRightBottom {
+  width: 30%;
+  float: left;
+}
+
+#readyToGetStarted {
+  background-color: #15224d;
+  width: 70%;
+  color: white;
+  padding-left: 1%;
+  border: 1px solid #dcdcdc;
+}
+input {
+  border: 1px solid #dcdcdc;
+  height: 50px;
+  width: 70%;
+}
+.formFields {
+  margin-top: -20px;
+}
+button {
+  width: 71.5%;
+  border: 1px solid #dcdcdc;
+  height: 50px;
+  background: #eb5526;
+}
+/*
+#LeftSectionChild a {
+  color: #3fc8f3;
+  text-decoration: none;
+  font-family: "Roboto", sans-serif;
+}
+*/
+/* ibalik ra
+#R a {
+  text-decoration: none;
+  color: white;
+}
+
+#CL {
+  background-color: black;
+  width: 20%;
+  padding: 1% 0 1% 0;
+  float: left;
+}
+#SF {
+  background-color: black;
+  width: 20%;
+  padding: 1% 0 1% 0;
+  float: left;
+}
+#GQ {
+  background-color: black;
+  width: 20%;
+  float: left;
+  padding: 1% 0 1% 0;
+}
+*/
+
+/*header {
+  font-family: "Roboto", sans-serif;
+}
+
+#R {
+  text-decoration: none;
+}
+#L {
+  background-color: #f7971d;
+  width: 10%;
+  float: left;
+  color: white;
+  text-indent: 25px;
+}
+#M {
+  background-color: black;
+  width: 50%;
+  float: left;
+  color: white;
+  text-indent: 25px;
+}
+#R a {
+  text-decoration: none;
+  color: white;
+}
+
+#CL {
+  background-color: black;
+  width: 15%;
+  float: left;
+}
+#SF {
+  background-color: black;
+  width: 15%;
+  float: left;
+}
+#GQ {
+  background-color: black;
+  width: 10%;
+  float: right;
+}
+
+.logo {
+  width: 20%;
+  float: left;
+}
+nav {
+  float: center;
+}
+#A ul {
+  list-style-type: none;
+  text-align: center;
+  padding-top: 20px;
+}
+#A li {
+  display: inline-block;
+  margin-right: 100px;
+  padding-top: 20px;
+}
+nav a {
+  color: black;
+  text-decoration: none;
+}
+
+.bg {
+  width: 1000px;
+  height: 500px;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#B ul {
+  list-style-type: none;
+}
+#B li {
+  padding-top: 20px;
+}
+#B a {
+  color: #3fc8f3;
+  font-size: 150%;
+  font-family: "Roboto", sans-serif;
+}
+#part1 #L1 {
+  float: left;
+  padding-right: 5%;
+  padding-left: 2.5%;
+}
+
+#part1 #M1 #SF1 {
+  padding-top: 3%;
+
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  color: #222;
+  font-size: 120%;
+}
+#part1 #M1 #SF2 {
+  font-family: "Roboto", sans-serif;
+  color: #222;
+  font-size: 120%;
+}
+#SF3 {
+  display: inline-block;
+}
+#Req {
+  font-size: 75%;
+}
+*/ ;

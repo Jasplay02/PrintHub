@@ -1,0 +1,6 @@
+lh_inst.stopCheckNewMessage();
+if (window.innerWidth > 1023) {
+	lh_inst.showStartWindow('//ichat.webdealersolutions.com/index.php/chat/readoperatormessage/(department)/13/(theme)/9/(vid)/128wybxtknxairieod6v',true);
+};
+
+	
